@@ -1,4 +1,4 @@
-<div align="center">
+no<div align="center">
 <img width="2560" height="1140" alt="20260928_202316 (1)" src="https://github.com/user-attachments/assets/5c49d83c-911e-4682-a1fc-ef6a3cff804b" />
 
 # 🎤 SongHub Karaoke
